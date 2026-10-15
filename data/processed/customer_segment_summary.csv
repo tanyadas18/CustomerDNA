@@ -1,0 +1,5 @@
+Cluster,Segment,Customers,Median_Recency,Median_Frequency,Median_Monetary,Average_Monetary,Customer_Percentage
+0,Dormant / Low-Value,1973,402.0,1.0,273.31,317.08150076026357,33.56583872065328
+1,Recent / Lower-Spend,1250,24.0,3.0,734.115,857.4914335999999,21.265736645117386
+2,High-Value / Frequent,1196,17.0,13.0,4986.115,10731.162990802677,20.347056822048316
+3,Established / Moderate-Value,1459,186.0,4.0,1450.04,1948.503932830706,24.821367812181013
