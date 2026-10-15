@@ -74,6 +74,16 @@ CustomerDNA_Retail_Analytics/
 └── README.md
 ```
 
+## Power BI Dashboard
+
+### Retail Performance Overview
+
+![Retail Performance Overview](images/retail_performance_overview.png)
+
+### Customer Segmentation & RFM Analysis
+
+![Customer Segmentation and RFM Analysis](images/customer_segmentation.png)
+
 ## Project Status
 
 The project is under development. Data preparation, analytical validation, and documentation are ongoing. Final findings and business recommendations will be added after validation.
