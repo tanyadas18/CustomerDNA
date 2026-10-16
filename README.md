@@ -56,7 +56,7 @@ The dataset is used for educational and analytical purposes. Data cleaning and t
 - **Jupyter Notebook:** Exploratory data analysis and documentation
 - **Scikit-learn:** Customer segmentation and clustering
 - **Power BI:** Interactive dashboard development
-- **SQL:** Planned retail analytics queries
+- **SQL**: Customer analysis, segment comparisons, window functions, and sales trend analysis using SQLite
 
 ## Repository Structure
 
@@ -67,9 +67,9 @@ CustomerDNA_Retail_Analytics/
 │   ├── raw/         # Original dataset (excluded from Git)
 │   └── processed/   # Derived analytical datasets
 ├── notebooks/       # Exploratory analysis notebooks
-├── reports/         # Supporting analysis and outputs
-├── sql/             # SQL queries (to be added)
-├── src/             # Reusable Python scripts (to be added)
+├── reports/         # Business insights and recommendations
+├── sql/             # Customer and retail analytics queries
+├── src/             # SQLite database loader and SQL runner
 ├── .gitignore
 └── README.md
 ```
@@ -86,4 +86,8 @@ CustomerDNA_Retail_Analytics/
 
 ## Project Status
 
-The project is under development. Data preparation, analytical validation, and documentation are ongoing. Final findings and business recommendations will be added after validation.
+The project includes exploratory data analysis, customer-level RFM analysis, four customer segments, SQL-based retail analytics, and an interactive Power BI dashboard.
+
+Business insights and recommendations are documented in `reports/business_insights.md`. The analysis uses historical Online Retail II data, and monetary metrics are interpreted as transaction or customer monetary value rather than profit.
+
+Further work can focus on validating segmentation quality, refining business recommendations, and improving the reproducibility of the analysis.
