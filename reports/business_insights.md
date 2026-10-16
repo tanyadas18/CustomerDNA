@@ -87,10 +87,11 @@ These are proposed actions, not measured campaign outcomes. Their effectiveness 
 
 ## 6. Next Steps
 
-1. Validate the RFM calculations and segment assignments.
-2. Add SQL-based analysis for sales trends and customer performance.
-3. Compare findings across time periods and customer segments.
-4. Develop measurable recommendations and document the final validated findings.
+1. Validate RFM calculations, segment assignments, and the reference date used for recency.
+2. Review the complete monthly sales time series, accounting for the partial December 2011 period.
+3. Assess segment stability and identify opportunities to improve customer segmentation.
+4. Test the proposed retention and re-engagement recommendations using measurable KPIs.
+5. Improve reproducibility by documenting the analysis workflow, assumptions, and data-quality decisions.
 
 ---
 
