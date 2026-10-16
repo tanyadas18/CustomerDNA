@@ -38,6 +38,16 @@ The current RFM output contains 5,878 customers across four segments.
 
 These segment labels describe the current segmentation output. Their business implications should be interpreted alongside the RFM definitions, observation period, and validation results.
 
+### Customer Monetary Contribution
+
+The SQL analysis shows that the **High-Value / Frequent** segment contributes 73.87% of total customer monetary value while accounting for 20.35% of identified customers (1,196 of 5,878).
+
+The **Established / Moderate-Value** segment contributes 16.36%, followed by **Recent / Lower-Spend** at 6.17% and **Dormant / Low-Value** at 3.60%.
+
+**Business implication:** Retention initiatives for High-Value / Frequent customers may help protect a substantial share of customer monetary value. The Dormant / Low-Value segment, which represents the largest group by customer count, could be evaluated for targeted re-engagement campaigns.
+
+*Note: Monetary contribution represents the sum of customer-level monetary values in the RFM analysis. It should not be interpreted as profit or accounting revenue.*
+
 ## 4. Business Recommendations
 
 ### 4.1 Dormant / Low-Value Customers
